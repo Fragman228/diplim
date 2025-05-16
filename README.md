@@ -1,1 +1,1 @@
-# diplim
+# diplom
